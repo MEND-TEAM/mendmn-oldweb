@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../mend-admin/.idea/mend-admin.iml" filepath="$PROJECT_DIR$/../mend-admin/.idea/mend-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mend.mn.iml" filepath="$PROJECT_DIR$/.idea/mend.mn.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4fee588e-183d-4a29-be3c-dd0473c905f8" name="mend api">
+        <fileTransfer rootFolder="/home/admin/web/event.mend.mn/nodeapp/mend-event-api" accessType="SFTP" host="202.170.70.91" port="22" sshConfigId="3bce5fc9-f1df-42b7-867d-cf8e1b986fc4" sshConfig="admin@202.170.70.91:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,20 @@
+#########################
+# Mac OS
+#########################
+
+.DS_Store
+
+#########################
+#  vscode
+#########################
+
+.vscode/
+
+
+###########################
+# develop config
+###########################
+cms/config/environments/development/database.json
+yarn.lock
+cms/public/uploads/*
+cms/public/uploads_compressed/*
